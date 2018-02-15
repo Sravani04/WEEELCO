@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/yellowsoft/.android/build-cache/e7eb74c75180d04f7bca7abd724bab4841f93c41/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="315d20ec53c6ee60ac05275bb68edfa632c76581">
+        <dex dex="/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/pre-dexed/debug/classes_9fc264d0cbb5bb21e9a0a31b8ffbe5c01d669ec4.jar" />
+    </item>
+
+</items>

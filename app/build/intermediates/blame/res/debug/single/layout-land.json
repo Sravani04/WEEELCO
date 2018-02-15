@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/layout-land/mdtp_date_picker_dialog.xml",
+        "source": "/home/yellowsoft/.android/build-cache/e7eb74c75180d04f7bca7abd724bab4841f93c41/output/res/layout-land/mdtp_date_picker_dialog.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/layout-land/mdtp_time_title_view_v2.xml",
+        "source": "/home/yellowsoft/.android/build-cache/e7eb74c75180d04f7bca7abd724bab4841f93c41/output/res/layout-land/mdtp_time_title_view_v2.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/layout-land/mdtp_time_picker_dialog.xml",
+        "source": "/home/yellowsoft/.android/build-cache/e7eb74c75180d04f7bca7abd724bab4841f93c41/output/res/layout-land/mdtp_time_picker_dialog.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/layout-land/mdtp_date_picker_dialog_v2.xml",
+        "source": "/home/yellowsoft/.android/build-cache/e7eb74c75180d04f7bca7abd724bab4841f93c41/output/res/layout-land/mdtp_date_picker_dialog_v2.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/layout-land/mdtp_date_picker_header_view_v2.xml",
+        "source": "/home/yellowsoft/.android/build-cache/e7eb74c75180d04f7bca7abd724bab4841f93c41/output/res/layout-land/mdtp_date_picker_header_view_v2.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/layout-land/mdtp_time_header_label.xml",
+        "source": "/home/yellowsoft/.android/build-cache/e7eb74c75180d04f7bca7abd724bab4841f93c41/output/res/layout-land/mdtp_time_header_label.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/layout-land/mdtp_time_picker_dialog_v2.xml",
+        "source": "/home/yellowsoft/.android/build-cache/e7eb74c75180d04f7bca7abd724bab4841f93c41/output/res/layout-land/mdtp_time_picker_dialog_v2.xml"
+    }
+]

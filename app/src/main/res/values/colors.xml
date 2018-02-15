@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent">#64424242</color>
+    <color name="background">#B9AB8C</color>
+    <color name="inactive">#444444</color>
+    <color name="active">#b6aa8e</color>
+    <color name="textbold">#656565</color>
+    <color name="textcolor">#5d5d5d</color>
+    <color name="textblackbold">#000000</color>
+    <color name="green">#007c00</color>
+    <color name="lightcolor">#eeeeee</color>
+    <color name="heading">#747474</color>
+    <color name="text">#252525</color>
+    <color name="lighttext">#808080</color>
+    <color name="pickbackground">#dadada</color>
+    <color name="paynow">#fbde3f</color>
+    <color name="colorActionBackground">#e5e3d6</color>
+    <color name="line">#d2d2d2</color>
+</resources>

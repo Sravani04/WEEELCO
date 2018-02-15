@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

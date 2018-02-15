@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/home/yellowsoft/.android/build-cache/b09f05b8c5562fdb5dd8dddfb0517ef9bb3f69d8/output/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/home/yellowsoft/.android/build-cache/d92c06f5d622aa7b512cc6c0cf0de34f81510022/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/yellowsoft/.android/build-cache/b09f05b8c5562fdb5dd8dddfb0517ef9bb3f69d8/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/mdtp_date_picker_selector.xml",
+        "source": "/home/yellowsoft/.android/build-cache/e7eb74c75180d04f7bca7abd724bab4841f93c41/output/res/color/mdtp_date_picker_selector.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/mdtp_done_text_color.xml",
+        "source": "/home/yellowsoft/.android/build-cache/e7eb74c75180d04f7bca7abd724bab4841f93c41/output/res/color/mdtp_done_text_color.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/mdtp_date_picker_year_selector.xml",
+        "source": "/home/yellowsoft/.android/build-cache/e7eb74c75180d04f7bca7abd724bab4841f93c41/output/res/color/mdtp_date_picker_year_selector.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/mdtp_done_text_color_dark.xml",
+        "source": "/home/yellowsoft/.android/build-cache/e7eb74c75180d04f7bca7abd724bab4841f93c41/output/res/color/mdtp_done_text_color_dark.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/home/yellowsoft/.android/build-cache/d92c06f5d622aa7b512cc6c0cf0de34f81510022/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/home/yellowsoft/.android/build-cache/b09f05b8c5562fdb5dd8dddfb0517ef9bb3f69d8/output/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/yellowsoft/.android/build-cache/b09f05b8c5562fdb5dd8dddfb0517ef9bb3f69d8/output/res/color/common_google_signin_btn_text_light.xml"
+    }
+]

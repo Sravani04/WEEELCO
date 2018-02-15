@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_item.xml",
+        "source": "/home/yellowsoft/.android/build-cache/5c5f6a62cd516f5c3748046471d6bf0c4a8b7d54/output/res/layout-v21/bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_small_item.xml",
+        "source": "/home/yellowsoft/.android/build-cache/5c5f6a62cd516f5c3748046471d6bf0c4a8b7d54/output/res/layout-v21/bottom_navigation_small_item.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/layout-v21/notification_action.xml"
+    }
+]

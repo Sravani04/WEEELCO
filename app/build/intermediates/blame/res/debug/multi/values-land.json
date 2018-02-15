@@ -1,0 +1,522 @@
+[
+    {
+        "outputFile": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 69,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 63,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 63,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 70,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 70,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 67,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 67,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endColumn": 45,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "/home/yellowsoft/.android/build-cache/f0d751cf4f9ce6c246a09a017b39d14183734041/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 45,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 374,
+                    "endColumn": 50,
+                    "endOffset": 420
+                },
+                "from": {
+                    "file": "/home/yellowsoft/.android/build-cache/f0d751cf4f9ce6c246a09a017b39d14183734041/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 50,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 425,
+                    "endColumn": 46,
+                    "endOffset": 467
+                },
+                "from": {
+                    "file": "/home/yellowsoft/.android/build-cache/f0d751cf4f9ce6c246a09a017b39d14183734041/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 152,
+                        "endColumn": 46,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 472,
+                    "endColumn": 48,
+                    "endOffset": 516
+                },
+                "from": {
+                    "file": "/home/yellowsoft/.android/build-cache/f0d751cf4f9ce6c246a09a017b39d14183734041/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 199,
+                        "endColumn": 48,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 521,
+                    "endColumn": 42,
+                    "endOffset": 559
+                },
+                "from": {
+                    "file": "/home/yellowsoft/.android/build-cache/f0d751cf4f9ce6c246a09a017b39d14183734041/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 42,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 564,
+                    "endColumn": 64,
+                    "endOffset": 624
+                },
+                "from": {
+                    "file": "/home/yellowsoft/.android/build-cache/e7eb74c75180d04f7bca7abd724bab4841f93c41/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 64,
+                        "endOffset": 115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 629,
+                    "endColumn": 62,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "/home/yellowsoft/.android/build-cache/e7eb74c75180d04f7bca7abd724bab4841f93c41/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 120,
+                        "endColumn": 62,
+                        "endOffset": 178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 692,
+                    "endColumn": 61,
+                    "endOffset": 749
+                },
+                "from": {
+                    "file": "/home/yellowsoft/.android/build-cache/e7eb74c75180d04f7bca7abd724bab4841f93c41/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endColumn": 61,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 754,
+                    "endColumn": 69,
+                    "endOffset": 819
+                },
+                "from": {
+                    "file": "/home/yellowsoft/.android/build-cache/e7eb74c75180d04f7bca7abd724bab4841f93c41/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endColumn": 69,
+                        "endOffset": 310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 824,
+                    "endColumn": 51,
+                    "endOffset": 871
+                },
+                "from": {
+                    "file": "/home/yellowsoft/.android/build-cache/e7eb74c75180d04f7bca7abd724bab4841f93c41/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 315,
+                        "endColumn": 51,
+                        "endOffset": 362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 876,
+                    "endColumn": 53,
+                    "endOffset": 925
+                },
+                "from": {
+                    "file": "/home/yellowsoft/.android/build-cache/e7eb74c75180d04f7bca7abd724bab4841f93c41/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 367,
+                        "endColumn": 53,
+                        "endOffset": 416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 930,
+                    "endColumn": 50,
+                    "endOffset": 976
+                },
+                "from": {
+                    "file": "/home/yellowsoft/.android/build-cache/e7eb74c75180d04f7bca7abd724bab4841f93c41/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 421,
+                        "endColumn": 50,
+                        "endOffset": 467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 981,
+                    "endColumn": 59,
+                    "endOffset": 1036
+                },
+                "from": {
+                    "file": "/home/yellowsoft/.android/build-cache/e7eb74c75180d04f7bca7abd724bab4841f93c41/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 472,
+                        "endColumn": 59,
+                        "endOffset": 527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1041,
+                    "endColumn": 60,
+                    "endOffset": 1097
+                },
+                "from": {
+                    "file": "/home/yellowsoft/.android/build-cache/e7eb74c75180d04f7bca7abd724bab4841f93c41/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 532,
+                        "endColumn": 60,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1102,
+                    "endColumn": 59,
+                    "endOffset": 1157
+                },
+                "from": {
+                    "file": "/home/yellowsoft/.android/build-cache/e7eb74c75180d04f7bca7abd724bab4841f93c41/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 593,
+                        "endColumn": 59,
+                        "endOffset": 648
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1162,
+                    "endColumn": 56,
+                    "endOffset": 1214
+                },
+                "from": {
+                    "file": "/home/yellowsoft/.android/build-cache/e7eb74c75180d04f7bca7abd724bab4841f93c41/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 653,
+                        "endColumn": 56,
+                        "endOffset": 705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1219,
+                    "endColumn": 48,
+                    "endOffset": 1263
+                },
+                "from": {
+                    "file": "/home/yellowsoft/.android/build-cache/f0d751cf4f9ce6c246a09a017b39d14183734041/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 48,
+                        "endOffset": 335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1268,
+                    "endColumn": 45,
+                    "endOffset": 1309
+                },
+                "from": {
+                    "file": "/home/yellowsoft/.android/build-cache/f0d751cf4f9ce6c246a09a017b39d14183734041/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 340,
+                        "endColumn": 45,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1314,
+                    "endColumn": 53,
+                    "endOffset": 1363
+                },
+                "from": {
+                    "file": "/home/yellowsoft/.android/build-cache/f0d751cf4f9ce6c246a09a017b39d14183734041/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endColumn": 53,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1368,
+                    "endColumn": 43,
+                    "endOffset": 1407
+                },
+                "from": {
+                    "file": "/home/yellowsoft/.android/build-cache/f0d751cf4f9ce6c246a09a017b39d14183734041/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 440,
+                        "endColumn": 43,
+                        "endOffset": 479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1412,
+                    "endColumn": 46,
+                    "endOffset": 1454
+                },
+                "from": {
+                    "file": "/home/yellowsoft/.android/build-cache/f0d751cf4f9ce6c246a09a017b39d14183734041/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 484,
+                        "endColumn": 46,
+                        "endOffset": 526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1459,
+                    "endColumn": 45,
+                    "endOffset": 1500
+                },
+                "from": {
+                    "file": "/home/yellowsoft/.android/build-cache/f0d751cf4f9ce6c246a09a017b39d14183734041/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 531,
+                        "endColumn": 45,
+                        "endOffset": 572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1505,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1682
+                },
+                "from": {
+                    "file": "/home/yellowsoft/.android/build-cache/d92c06f5d622aa7b512cc6c0cf0de34f81510022/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 232
+                    }
+                }
+            }
+        ]
+    }
+]

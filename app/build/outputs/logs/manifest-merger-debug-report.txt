@@ -1,0 +1,234 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:5:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/yellowsoft/.android/build-cache/57abc689c12a85f53840e9d89dc5385bed26dbfa/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/141f4f93def51cd9af658e9b3c28bcbff865b53c/output/AndroidManifest.xml:26:5-20
+MERGED from [it.sephiroth.android.library.bottomnavigation:bottom-navigation:2.0.1-rc1] /home/yellowsoft/.android/build-cache/1b489d8124fce6c0eefee38bf2478296b55ce374/output/AndroidManifest.xml:12:5-20
+MERGED from [com.infstory:proguard-annotations:1.0.2] /home/yellowsoft/.android/build-cache/b69df968d2415f8ac8b3744c948ebbea5e9c0724/output/AndroidManifest.xml:11:5-20
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /home/yellowsoft/.android/build-cache/062ca63091849b28d14580551815d12e91bc4083/output/AndroidManifest.xml:13:5-14:19
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /home/yellowsoft/.android/build-cache/8d51ea088378de5f8a02de9372ce39b046f68c2c/output/AndroidManifest.xml:13:5-14:19
+MERGED from [com.kaopiz:kprogresshud:1.1.0] /home/yellowsoft/.android/build-cache/29c0dc36556f3dab703d9d449a82309d22d0045b/output/AndroidManifest.xml:11:5-13:38
+MERGED from [com.github.nirhart:parallaxscroll:1.0] /home/yellowsoft/.android/build-cache/40f61460a577879b76757fdd8c2c8434de6de178/output/AndroidManifest.xml:11:5-20
+MERGED from [com.eminayar.panterdialog:panter-dialog:0.0.2.1] /home/yellowsoft/.android/build-cache/f0d751cf4f9ce6c246a09a017b39d14183734041/output/AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.gms:play-services-maps:9.0.1] /home/yellowsoft/.android/build-cache/f48859b69cfef4bcca69329cd5947c439853fa91/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.1] /home/yellowsoft/.android/build-cache/b09f05b8c5562fdb5dd8dddfb0517ef9bb3f69d8/output/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-common:9.0.1] /home/yellowsoft/.android/build-cache/db6a41c5abb8374878e248644ab2219c1e82a840/output/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.1] /home/yellowsoft/.android/build-cache/ec2607616b8a8e0f1a70aa5b3c3a988454f47cb6/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.1] /home/yellowsoft/.android/build-cache/4c7e598fe211c280b6800d7eee7e21e4bf15f181/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.wrapp.floatlabelededittext:library:0.0.6] /home/yellowsoft/.android/build-cache/bb642e543cfa7ad41aa8d9a5f0309fda20be59a6/output/AndroidManifest.xml:11:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.1.0] /home/yellowsoft/.android/build-cache/5c5f6a62cd516f5c3748046471d6bf0c4a8b7d54/output/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/d92c06f5d622aa7b512cc6c0cf0de34f81510022/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/2a5a7896947170d6e19ee4efda915132f3f21fde/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/259b98001d8d6b61bdb07708768ffd140b430206/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/3cadeddc99b04e24401077452ca8dd190b38b140/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/91d91eb53dc428a9b9d07b6af84fa5625ac130b8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/ff8d174458990d4b75afbec7ab751cf8fb3bb2e0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/cf2b381a67f8c1926a151dabc0197fa7472590ef/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/65662e053d4e97d291fe63c3b8e4b377071f8013/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/85d1dc8dd0dd3829f04a120da3c85a880b6e6ffd/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/6346a67ca4096adbcdc2f2a0cc2e8d93b2defd98/output/AndroidManifest.xml:29:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/yellowsoft/.android/build-cache/5f24b19559ff12e5227c82b6291e0827d1dcf5fc/output/AndroidManifest.xml:9:5-20
+MERGED from [com.wdullaer:materialdatetimepicker:3.3.0] /home/yellowsoft/.android/build-cache/e7eb74c75180d04f7bca7abd724bab4841f93c41/output/AndroidManifest.xml:28:5-20
+	android:label
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.yellowsoft.weeelco.SplashActivity
+ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:12:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.yellowsoft.weeelco.MainActivity
+ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:19:9-96
+	android:screenOrientation
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:19:48-84
+	android:name
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:19:19-47
+activity#com.example.yellowsoft.weeelco.CarsActivity
+ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:20:9-96
+	android:screenOrientation
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:20:48-84
+	android:name
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:20:19-47
+activity#com.example.yellowsoft.weeelco.CarDetailsPage
+ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:21:9-98
+	android:screenOrientation
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:21:50-86
+	android:name
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:21:19-49
+activity#com.example.yellowsoft.weeelco.EditProfile
+ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:22:9-95
+	android:screenOrientation
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:22:47-83
+	android:name
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:22:19-46
+activity#com.example.yellowsoft.weeelco.CheckoutActivity
+ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:23:9-100
+	android:screenOrientation
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:23:52-88
+	android:name
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:23:19-51
+activity#com.example.yellowsoft.weeelco.PaymentPage
+ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:24:9-95
+	android:screenOrientation
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:24:47-83
+	android:name
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:24:19-46
+activity#com.example.yellowsoft.weeelco.ThankyouScreen
+ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:25:9-98
+	android:screenOrientation
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:25:50-86
+	android:name
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:25:19-49
+activity#com.example.yellowsoft.weeelco.BookingsOrdersActivity
+ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:26:9-106
+	android:screenOrientation
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:26:58-94
+	android:name
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:26:19-57
+activity#com.example.yellowsoft.weeelco.BookingsOrderDetailPage
+ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:27:9-107
+	android:screenOrientation
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:27:59-95
+	android:name
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:27:19-58
+activity#com.example.yellowsoft.weeelco.LanguageScreen
+ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:28:9-98
+	android:screenOrientation
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:28:50-86
+	android:name
+		ADDED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml:28:19-49
+uses-sdk
+INJECTED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/yellowsoft/.android/build-cache/57abc689c12a85f53840e9d89dc5385bed26dbfa/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/141f4f93def51cd9af658e9b3c28bcbff865b53c/output/AndroidManifest.xml:20:5-44
+MERGED from [it.sephiroth.android.library.bottomnavigation:bottom-navigation:2.0.1-rc1] /home/yellowsoft/.android/build-cache/1b489d8124fce6c0eefee38bf2478296b55ce374/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.infstory:proguard-annotations:1.0.2] /home/yellowsoft/.android/build-cache/b69df968d2415f8ac8b3744c948ebbea5e9c0724/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /home/yellowsoft/.android/build-cache/062ca63091849b28d14580551815d12e91bc4083/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /home/yellowsoft/.android/build-cache/8d51ea088378de5f8a02de9372ce39b046f68c2c/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.kaopiz:kprogresshud:1.1.0] /home/yellowsoft/.android/build-cache/29c0dc36556f3dab703d9d449a82309d22d0045b/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.nirhart:parallaxscroll:1.0] /home/yellowsoft/.android/build-cache/40f61460a577879b76757fdd8c2c8434de6de178/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.eminayar.panterdialog:panter-dialog:0.0.2.1] /home/yellowsoft/.android/build-cache/f0d751cf4f9ce6c246a09a017b39d14183734041/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:9.0.1] /home/yellowsoft/.android/build-cache/f48859b69cfef4bcca69329cd5947c439853fa91/output/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.1] /home/yellowsoft/.android/build-cache/b09f05b8c5562fdb5dd8dddfb0517ef9bb3f69d8/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.1] /home/yellowsoft/.android/build-cache/db6a41c5abb8374878e248644ab2219c1e82a840/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.1] /home/yellowsoft/.android/build-cache/ec2607616b8a8e0f1a70aa5b3c3a988454f47cb6/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.1] /home/yellowsoft/.android/build-cache/4c7e598fe211c280b6800d7eee7e21e4bf15f181/output/AndroidManifest.xml:18:5-42
+MERGED from [com.wrapp.floatlabelededittext:library:0.0.6] /home/yellowsoft/.android/build-cache/bb642e543cfa7ad41aa8d9a5f0309fda20be59a6/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.1.0] /home/yellowsoft/.android/build-cache/5c5f6a62cd516f5c3748046471d6bf0c4a8b7d54/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/d92c06f5d622aa7b512cc6c0cf0de34f81510022/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/2a5a7896947170d6e19ee4efda915132f3f21fde/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/259b98001d8d6b61bdb07708768ffd140b430206/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/9e93d5c12d2ac007493b7fec89185f97ce6603f0/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/3cadeddc99b04e24401077452ca8dd190b38b140/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/91d91eb53dc428a9b9d07b6af84fa5625ac130b8/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/ff8d174458990d4b75afbec7ab751cf8fb3bb2e0/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/cf2b381a67f8c1926a151dabc0197fa7472590ef/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/65662e053d4e97d291fe63c3b8e4b377071f8013/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/85d1dc8dd0dd3829f04a120da3c85a880b6e6ffd/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/6346a67ca4096adbcdc2f2a0cc2e8d93b2defd98/output/AndroidManifest.xml:21:5-23:58
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/yellowsoft/.android/build-cache/5f24b19559ff12e5227c82b6291e0827d1dcf5fc/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.wdullaer:materialdatetimepicker:3.3.0] /home/yellowsoft/.android/build-cache/e7eb74c75180d04f7bca7abd724bab4841f93c41/output/AndroidManifest.xml:22:5-24:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/d92c06f5d622aa7b512cc6c0cf0de34f81510022/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/141f4f93def51cd9af658e9b3c28bcbff865b53c/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/d92c06f5d622aa7b512cc6c0cf0de34f81510022/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/2a5a7896947170d6e19ee4efda915132f3f21fde/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/259b98001d8d6b61bdb07708768ffd140b430206/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/9e93d5c12d2ac007493b7fec89185f97ce6603f0/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/3cadeddc99b04e24401077452ca8dd190b38b140/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/91d91eb53dc428a9b9d07b6af84fa5625ac130b8/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/ff8d174458990d4b75afbec7ab751cf8fb3bb2e0/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/cf2b381a67f8c1926a151dabc0197fa7472590ef/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/65662e053d4e97d291fe63c3b8e4b377071f8013/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/85d1dc8dd0dd3829f04a120da3c85a880b6e6ffd/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/6346a67ca4096adbcdc2f2a0cc2e8d93b2defd98/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/141f4f93def51cd9af658e9b3c28bcbff865b53c/output/AndroidManifest.xml:24:9-38
+	android:name
+		ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/yellowsoft/.android/build-cache/141f4f93def51cd9af658e9b3c28bcbff865b53c/output/AndroidManifest.xml:23:9-47
+uses-permission#android.permission.INTERNET
+ADDED from [com.koushikdutta.ion:ion:2.2.1] /home/yellowsoft/.android/build-cache/062ca63091849b28d14580551815d12e91bc4083/output/AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /home/yellowsoft/.android/build-cache/8d51ea088378de5f8a02de9372ce39b046f68c2c/output/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.0.1] /home/yellowsoft/.android/build-cache/f48859b69cfef4bcca69329cd5947c439853fa91/output/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from [com.koushikdutta.ion:ion:2.2.1] /home/yellowsoft/.android/build-cache/062ca63091849b28d14580551815d12e91bc4083/output/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:9.0.1] /home/yellowsoft/.android/build-cache/f48859b69cfef4bcca69329cd5947c439853fa91/output/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:9.0.1] /home/yellowsoft/.android/build-cache/f48859b69cfef4bcca69329cd5947c439853fa91/output/AndroidManifest.xml:20:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.0.1] /home/yellowsoft/.android/build-cache/f48859b69cfef4bcca69329cd5947c439853fa91/output/AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.0.1] /home/yellowsoft/.android/build-cache/f48859b69cfef4bcca69329cd5947c439853fa91/output/AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.0.1] /home/yellowsoft/.android/build-cache/f48859b69cfef4bcca69329cd5947c439853fa91/output/AndroidManifest.xml:24:8-31
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.1] /home/yellowsoft/.android/build-cache/b09f05b8c5562fdb5dd8dddfb0517ef9bb3f69d8/output/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.1] /home/yellowsoft/.android/build-cache/b09f05b8c5562fdb5dd8dddfb0517ef9bb3f69d8/output/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.1] /home/yellowsoft/.android/build-cache/b09f05b8c5562fdb5dd8dddfb0517ef9bb3f69d8/output/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.1] /home/yellowsoft/.android/build-cache/b09f05b8c5562fdb5dd8dddfb0517ef9bb3f69d8/output/AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.1] /home/yellowsoft/.android/build-cache/db6a41c5abb8374878e248644ab2219c1e82a840/output/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.1] /home/yellowsoft/.android/build-cache/db6a41c5abb8374878e248644ab2219c1e82a840/output/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.1] /home/yellowsoft/.android/build-cache/db6a41c5abb8374878e248644ab2219c1e82a840/output/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.1] /home/yellowsoft/.android/build-cache/db6a41c5abb8374878e248644ab2219c1e82a840/output/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.1] /home/yellowsoft/.android/build-cache/db6a41c5abb8374878e248644ab2219c1e82a840/output/AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.0.1] /home/yellowsoft/.android/build-cache/4c7e598fe211c280b6800d7eee7e21e4bf15f181/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.0.1] /home/yellowsoft/.android/build-cache/4c7e598fe211c280b6800d7eee7e21e4bf15f181/output/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.0.1] /home/yellowsoft/.android/build-cache/4c7e598fe211c280b6800d7eee7e21e4bf15f181/output/AndroidManifest.xml:22:13-58
+uses-permission#android.permission.VIBRATE
+ADDED from [com.wdullaer:materialdatetimepicker:3.3.0] /home/yellowsoft/.android/build-cache/e7eb74c75180d04f7bca7abd724bab4841f93c41/output/AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from [com.wdullaer:materialdatetimepicker:3.3.0] /home/yellowsoft/.android/build-cache/e7eb74c75180d04f7bca7abd724bab4841f93c41/output/AndroidManifest.xml:26:22-63

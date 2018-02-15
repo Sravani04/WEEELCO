@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/anim/side_in.xml",
+        "source": "/home/yellowsoft/.android/build-cache/f0d751cf4f9ce6c246a09a017b39d14183734041/output/res/anim/side_in.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/yellowsoft/.android/build-cache/d92c06f5d622aa7b512cc6c0cf0de34f81510022/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/yellowsoft/.android/build-cache/d92c06f5d622aa7b512cc6c0cf0de34f81510022/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/anim/side_out.xml",
+        "source": "/home/yellowsoft/.android/build-cache/f0d751cf4f9ce6c246a09a017b39d14183734041/output/res/anim/side_out.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/anim/animation_move2.xml",
+        "source": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/res/anim/animation_move2.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/anim/slide_out.xml",
+        "source": "/home/yellowsoft/.android/build-cache/f0d751cf4f9ce6c246a09a017b39d14183734041/output/res/anim/slide_out.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/anim/slide_in.xml",
+        "source": "/home/yellowsoft/.android/build-cache/f0d751cf4f9ce6c246a09a017b39d14183734041/output/res/anim/slide_in.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/anim/pop_out.xml",
+        "source": "/home/yellowsoft/.android/build-cache/f0d751cf4f9ce6c246a09a017b39d14183734041/output/res/anim/pop_out.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/anim/pop_in.xml",
+        "source": "/home/yellowsoft/.android/build-cache/f0d751cf4f9ce6c246a09a017b39d14183734041/output/res/anim/pop_in.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/yellowsoft/.android/build-cache/d92c06f5d622aa7b512cc6c0cf0de34f81510022/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/yellowsoft/.android/build-cache/ed2248514a5aaec3e774fecfbefec91ab223bcba/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/anim/animation_move.xml",
+        "source": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/src/main/res/anim/animation_move.xml"
+    },
+    {
+        "merged": "/home/yellowsoft/AndroidStudioProjects/WEEELCO/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/yellowsoft/.android/build-cache/d92c06f5d622aa7b512cc6c0cf0de34f81510022/output/res/anim/design_bottom_sheet_slide_in.xml"
+    }
+]
