@@ -135,7 +135,6 @@ public class CheckoutActivity extends Activity {
         st_pay_price_summery.setText(Session.GetWord(this,"PRICE SUMMARY"));
         st_pay_method.setText(Session.GetWord(this,"Payment Method"));
         st_basic_price.setText(Session.GetWord(this,"Basic Price"));
-        Log.e("basicprice",st_basic_price.getText().toString());
         st_extras.setText(Session.GetWord(this,"Extras"));
         st_pp.setText(Session.GetWord(this,"Protection Package"));
         st_op.setText(Session.GetWord(this,"Other protections"));
