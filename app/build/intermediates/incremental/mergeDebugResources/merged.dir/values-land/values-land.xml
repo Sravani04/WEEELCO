@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_default_height_material">48dp</dimen>
+    <dimen name="abc_action_bar_progress_bar_size">32dp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">12dp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">14dp</dimen>
+    <dimen name="button_padding">10dp</dimen>
+    <dimen name="content_fake_margin">-5dp</dimen>
+    <dimen name="divider_stroke">0.5dp</dimen>
+    <dimen name="input_min_height">150dp</dimen>
+    <dimen name="logo_height">42dp</dimen>
+    <dimen name="mdtp_date_picker_component_width">220dp</dimen>
+    <dimen name="mdtp_date_picker_header_height">308dp</dimen>
+    <dimen name="mdtp_date_picker_header_width">170dp</dimen>
+    <dimen name="mdtp_date_picker_view_animator_height">220dp</dimen>
+    <dimen name="mdtp_dialog_height">200dip</dimen>
+    <dimen name="mdtp_left_side_width">240dip</dimen>
+    <dimen name="mdtp_picker_dimen">220dip</dimen>
+    <dimen name="mdtp_selected_date_day_size">100dp</dimen>
+    <dimen name="mdtp_selected_date_month_size">30dp</dimen>
+    <dimen name="mdtp_selected_date_year_size">30dp</dimen>
+    <dimen name="mdtp_time_picker_height">270dip</dimen>
+    <dimen name="message_text_size">14sp</dimen>
+    <dimen name="pattern_height">69dp</dimen>
+    <dimen name="scrollview_max_height">150dp</dimen>
+    <dimen name="text_padding">16dp</dimen>
+    <dimen name="title_text_size">18sp</dimen>
+    <dimen name="up_down_margin">30dp</dimen>
+    <style name="Widget.Design.TabLayout" parent="Base.Widget.Design.TabLayout">
+        <item name="tabGravity">center</item>
+        <item name="tabMode">fixed</item>
+    </style>
+</resources>
